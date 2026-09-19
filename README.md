@@ -456,8 +456,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 
 **Analyst**: Aaryan  
 **Role**: Data Analyst (BCA Graduate)  
-**Background**: Java Full Stack Development, SQL expertise  
-**LinkedIn**: [Profile](https://linkedin.com/in/aaryan)  
+**Background**: SQL expertise  
 
 📧 For questions about this analysis, refer to the Jupyter notebook or PDF summary.
 
