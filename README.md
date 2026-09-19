@@ -1,4 +1,4 @@
-# 📊 Teco Customer Churn Analysis
+# 📊 Customer Churn Analysis
 
 > **Data-Driven Insights for Telecom Customer Retention**
 
